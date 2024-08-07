@@ -1,0 +1,5 @@
+me\quartz\survivalsmp\listeners\ButtonInteractionListener.class
+me\quartz\survivalsmp\translate\TranslateManager.class
+me\quartz\survivalsmp\listeners\MessageReceivedListener.class
+me\quartz\survivalsmp\commands\SetupLangCommand.class
+me\quartz\survivalsmp\Main.class
